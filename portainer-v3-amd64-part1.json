@@ -1975,10 +1975,10 @@
 					"description": "Timezone"
 				}
 			],
-			"image": "devnen/chatterbox-tts-server:latest",
+			"image": "bhimrazy/chatterbox-tts-server:latest",
 			"logo": "icons/chatterbox-tts.png",
 			"name": "chatterbox-tts",
-			"officialDoc": "https://github.com/devnen/Chatterbox-TTS-Server",
+			"officialDoc": "https://github.com/bhimrazy/Chatterbox-TTS-Server",
 			"platform": "linux",
 			"ports": [
 				"8004:8004/tcp"
@@ -2000,9 +2000,9 @@
 					"container": "/app/models"
 				}
 			],
-			"webpage": "https://github.com/devnen/Chatterbox-TTS-Server",
+			"webpage": "https://github.com/bhimrazy/Chatterbox-TTS-Server",
 			"id": 390,
-			"note": "<b>Chatterbox TTS Server</b><br><br><b>Official Webpage: </b><a href=\"https://github.com/devnen/Chatterbox-TTS-Server\" target=\"_blank\">https://github.com/devnen/Chatterbox-TTS-Server</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/devnen/Chatterbox-TTS-Server\" target=\"_blank\">https://github.com/devnen/Chatterbox-TTS-Server</a><br><br><b>Web UI + OpenAI-compatible API endpoint:</b> <code>http://&lt;host&gt;:8004/v1/audio/speech</code><br>Supports voice cloning from a reference audio file.<br>Runs on NVIDIA CUDA, AMD ROCm, and CPU (CPU is slower). Models download on first run."
+			"note": "<b>Chatterbox TTS Server</b><br><br><b>Official Webpage: </b><a href=\"https://github.com/bhimrazy/Chatterbox-TTS-Server\" target=\"_blank\">https://github.com/devnen/Chatterbox-TTS-Server</a><br><b>Official Docker Documentation: </b><a href=\"https://github.com/devnen/Chatterbox-TTS-Server\" target=\"_blank\">https://github.com/devnen/Chatterbox-TTS-Server</a><br><br><b>Web UI + OpenAI-compatible API endpoint:</b> <code>http://&lt;host&gt;:8004/v1/audio/speech</code><br>Supports voice cloning from a reference audio file.<br>Runs on NVIDIA CUDA, AMD ROCm, and CPU (CPU is slower). Models download on first run."
 		},
 		{
 			"categories": [
